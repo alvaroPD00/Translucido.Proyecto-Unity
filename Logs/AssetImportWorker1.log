@@ -1,0 +1,287 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.9f1 (ea401c316338) revision 15351836'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'es' Physical Memory: 24512 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/Guardados/Cosas agrupadas/Productivo/unity/proyecto Translucido
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+59058
+Successfully changed project path to: D:/Guardados/Cosas agrupadas/Productivo/unity/proyecto Translucido
+D:/Guardados/Cosas agrupadas/Productivo/unity/proyecto Translucido
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [13440] Host "[IP] 192.168.0.226 [Port] 0 [Flags] 2 [Guid] 37576789 [EditorId] 37576789 [Version] 1048832 [Id] WindowsEditor(7,Alvarete-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [13440] Host "[IP] 192.168.0.226 [Port] 0 [Flags] 2 [Guid] 37576789 [EditorId] 37576789 [Version] 1048832 [Id] WindowsEditor(7,Alvarete-PC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 3 workers.
+Refreshing native plugins compatible for Editor in 15.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.9f1 (ea401c316338)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Guardados/Cosas agrupadas/Productivo/unity/proyecto Translucido/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     8170 MB
+    Driver:   31.0.21905.1001
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56316
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.AppleTV.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.021424 seconds.
+- Loaded All Assemblies, in  0.517 seconds
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for AppleTV target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 417 ms
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.905 seconds
+Domain Reload Profiling: 1420ms
+	BeginReloadAssembly (139ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (49ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (95ms)
+	LoadAllAssembliesAndSetupDomain (218ms)
+		LoadAssemblies (139ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (212ms)
+			TypeCache.Refresh (211ms)
+				TypeCache.ScanAssembly (191ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (905ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (821ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (603ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (141ms)
+			ProcessInitializeOnLoadMethodAttributes (67ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.009 seconds
+Refreshing native plugins compatible for Editor in 9.18 ms, found 2 plugins.
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.501 seconds
+Domain Reload Profiling: 2507ms
+	BeginReloadAssembly (211ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (49ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (55ms)
+	LoadAllAssembliesAndSetupDomain (675ms)
+		LoadAssemblies (513ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (289ms)
+			TypeCache.Refresh (234ms)
+				TypeCache.ScanAssembly (200ms)
+			ScanForSourceGeneratedMonoScriptInfo (40ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (1502ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1255ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (70ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (101ms)
+			ProcessInitializeOnLoadAttributes (802ms)
+			ProcessInitializeOnLoadMethodAttributes (270ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Shader Hidden/ProbeVolume/VoxelizeScene is not supported: GPU does not support conservative rasterization
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 10.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4697 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 107 unused Assets / (435.1 KB). Loaded Objects now: 5142.
+Memory consumption went from 200.3 MB to 199.9 MB.
+Total: 10.937500 ms (FindLiveObjects: 0.428800 ms CreateObjectMapping: 0.629400 ms MarkObjects: 9.612700 ms  DeleteObjects: 0.265200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/AddColorEffect.cs: 1d31e1f9f3d12bd541906bc39272172e -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 208761.329482 seconds.
+  path: Assets/materiales/icelandic_rock/Icelandic_Rock_Cliff_smokagcp_2K_BaseColor.jpg
+  artifactKey: Guid(117da59edea5739458e8cc361c0bbc97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materiales/icelandic_rock/Icelandic_Rock_Cliff_smokagcp_2K_BaseColor.jpg using Guid(117da59edea5739458e8cc361c0bbc97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e83680c3975bdb07560320057123a6f') in 0.245859 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/materiales/icelandic_rock/Icelandic_Rock_Cliff_smokagcp_2K_Gloss.jpg
+  artifactKey: Guid(adaf7295e4646e74e85b6447c815a77b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materiales/icelandic_rock/Icelandic_Rock_Cliff_smokagcp_2K_Gloss.jpg using Guid(adaf7295e4646e74e85b6447c815a77b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6cf7560bdc3150b82d32c4c1d966aec') in 0.050775 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/materiales/icelandic_rock
+  artifactKey: Guid(6c1658778ed56f443ae87d5cf58896dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materiales/icelandic_rock using Guid(6c1658778ed56f443ae87d5cf58896dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c021781e7a5bcf7e855bf88ba0160e4') in 0.006696 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/materiales/icelandic_rock/Icelandic_Rock_Cliff_smokagcp_2K_Normal.jpg
+  artifactKey: Guid(0073ed28da63b2d4b8554f7125c064f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materiales/icelandic_rock/Icelandic_Rock_Cliff_smokagcp_2K_Normal.jpg using Guid(0073ed28da63b2d4b8554f7125c064f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4db06fe8b1f691dbfdef97131230660') in 0.101512 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/materiales/icelandic_rock/Icelandic_Rock_Cliff_smokagcp_2K_Specular.jpg
+  artifactKey: Guid(402782ee648f6d74094870c3f52cbdd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materiales/icelandic_rock/Icelandic_Rock_Cliff_smokagcp_2K_Specular.jpg using Guid(402782ee648f6d74094870c3f52cbdd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '915d1dc94339d5a57724790af26b9496') in 0.076975 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/materiales/icelandic_rock/Icelandic_Rock_Cliff_smokagcp_2K_Cavity.jpg
+  artifactKey: Guid(ca95924c155dc8941b4146fc2c552eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materiales/icelandic_rock/Icelandic_Rock_Cliff_smokagcp_2K_Cavity.jpg using Guid(ca95924c155dc8941b4146fc2c552eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9520df0e5c9ebb47ba89e270b389002') in 0.048232 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/materiales/icelandic_rock/Icelandic_Rock_Cliff_smokagcp_2K_Roughness.jpg
+  artifactKey: Guid(0d6bc18db42910947adc634d1d1d85cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materiales/icelandic_rock/Icelandic_Rock_Cliff_smokagcp_2K_Roughness.jpg using Guid(0d6bc18db42910947adc634d1d1d85cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3181c0f56436c607a1948ad64e2714d1') in 0.046517 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 11.085281 seconds.
+  path: Assets/materiales/Lichened_Rock/Lichened_Rock_Wall_visoeh2bw_1K_Bump.jpg
+  artifactKey: Guid(2ba39eee6d171934fb6972d06068f648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materiales/Lichened_Rock/Lichened_Rock_Wall_visoeh2bw_1K_Bump.jpg using Guid(2ba39eee6d171934fb6972d06068f648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c24e05e2dbdb0be74102fb39bb3c529a') in 0.032055 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.091417 seconds.
+  path: Assets/materiales/Lichened_Rock/Lichened_Rock_Wall_visoeh2bw_1K_Gloss.jpg
+  artifactKey: Guid(e665b52a656215d4fa97d9e72dec268d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materiales/Lichened_Rock/Lichened_Rock_Wall_visoeh2bw_1K_Gloss.jpg using Guid(e665b52a656215d4fa97d9e72dec268d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df72a6c96022e655ffa2f905fda21992') in 0.025495 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/materiales/Lichened_Rock/Lichened_Rock_Wall_visoeh2bw_1K_Roughness.jpg
+  artifactKey: Guid(a4da4ec4f92546748be5394e65d954e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materiales/Lichened_Rock/Lichened_Rock_Wall_visoeh2bw_1K_Roughness.jpg using Guid(a4da4ec4f92546748be5394e65d954e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfa256d15dc1075c324898a45473abaa') in 0.021908 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
