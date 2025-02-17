@@ -35,4 +35,3 @@ Desarrollado por:
 [Raicky​](https://www.instagram.com/raicky.pepin/): Modelado 3D y diseño de escenario.
 
 [Yuuko_x](https://www.instagram.com/yuuko__x/)​: Composición musical y sonido.
-—-----------------------------------------------​
