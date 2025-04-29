@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-735418544356085210
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MaterialTexturizador
+  m_Shader: {fileID: -6465566751694194690, guid: 1848e2e7bb1e08e45aa53ea9a37cd057,
+    type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _TexturaLateral:
+        m_Texture: {fileID: 2800000, guid: c719c4caa03bf5545a08e46460749df2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TexturaTOP:
+        m_Texture: {fileID: 2800000, guid: a379581d046e0d94b92637b3e340c7cd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Contraste: 1
+    - _ContrasteLaterales: 9
+    - _ContrasteTop: 1
+    - _EditarLaterales: 1
+    - _EditarTOP: 0
+    - _EscalaLateral: 1
+    - _EscalaTOP: 1
+    - _FadeLaterales: 0.533
+    - _FadeTop: 0.5
+    - _Metallic: 0
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Saturacion: 0
+    - _Saturacion_IMG_Laterales_1: 0
+    - _Saturacion_IMG_TOP: 0
+    - _Smoothness: 0
+    - _Te_ir: 1
+    - _Te_irLaterales: 2
+    - _Te_irTop: 0.5
+    - _fade: 0.5
+    m_Colors:
+    - _Tinte: {r: 0.21275, g: 0.2375833, b: 0.25, a: 0}
+    - _TinteLaterales: {r: 1, g: 0, b: 1, a: 0}
+    - _TinteTop: {r: 1, g: 0, b: 0.9107642, a: 0}
+    - _offset: {r: 0, g: 0, b: 0, a: 0}
+    - _tilling: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
