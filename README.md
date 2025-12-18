@@ -4,6 +4,8 @@ Translucido fue desarrollado en el Global Game JAM de enero de 2025, en la Ciuda
 
 Nuestro personaje líquido inhala y exhala aire para modificar su densidad y volumen, inflándose para flotar o desinflándose para volverse una gota y superar obstáculos.
 
+Participé en el diseño de mecánicas principales, elementos narrativos y escena final, desarrollo de comportamiento sonoro e implementación de fluidos y sistema de partículas con burbujas animadas.
+
 #### Jugar
 
 Descargá el juego desde Itch.io: [https://alvaropd.itch.io/translucido](https://alvaropd.itch.io/translucido)
